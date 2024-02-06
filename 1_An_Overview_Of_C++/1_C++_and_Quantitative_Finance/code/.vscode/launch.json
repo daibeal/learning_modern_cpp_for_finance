@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/daibeal/Documents/learning/learning_modern_c++_for_finance/1_An_Overview_Of_C++/1_C++_and_Quantitative_Finance/code",
+      "program": "/Users/daibeal/Documents/learning/learning_modern_c++_for_finance/1_An_Overview_Of_C++/1_C++_and_Quantitative_Finance/code/build/Debug/outDebug"
+    }
+  ]
+}
