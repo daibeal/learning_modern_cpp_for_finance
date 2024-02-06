@@ -1,0 +1,17 @@
+# Exclude build and compiled files
+*/build/
+*.o
+outDebug
+
+# Exclude system and IDE files (customize as needed)
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.user
+*.sdf
+
+# Exclude backup and temporary files
+*~
+\#*
+*.bak
