@@ -16,11 +16,13 @@ Here's an overview of the chapters and sections available in this repository:
 
 | Chapter | Description | Link |
 |---------|-------------|------|
-| Chapter 1: An Overview of C++ | Introduction to C++ and its application in quantitative finance. | [View](Chapter_1_An_Overview_of_C++) |
-| Chapter 2: Some Mechanics of C++ | Detailed discussion on C++ mechanics like vectors, enums, and control structures. | [View](Chapter_2_Some_Mechanics_of_C++) |
-| Chapter 3: Writing User-Defined Functions and Classes in Modules | How to use modules for structuring user-defined functions and classes. | [View](Chapter_3_Writing_User-Defined_Functions_and_Classes_in_Modules) |
-| Chapter 4: Dates and Fixed Income Securities | Handling dates and working with fixed income securities in C++. | [View](Chapter_4_Dates_and_Fixed_Income_Securities) |
-| Chapter 5: Linear Algebra | Introduction to linear algebra in C++ and its applications. | [View](Chapter_5_Linear_Algebra) |
+| 1. An Overview Of C++ | Overview of C++, including quantitative finance, new C++ features, and foundational concepts. | [View](1_An_Overview_Of_C++) |
+| 2. User-Defined Classes | Introduction to creating user-defined classes, including a Black-Scholes class, move semantics, and the spaceship operator. | [View](2_User-Defined_Classes) |
+| 3. Smart Pointers, Class Inheritance, And Polymorphism | Discussion on polymorphism, smart pointers, and their use in modern C++ class design. | [View](3_Smart_Pointers_Class_Inheritance_And_Polymorphism) |
+| 4. Dates And Fixed Income Securities | Working with dates, fixed income securities, yield curves, and bond class design in C++. | [View](4_Dates_And_Fixed_Income_Securities) |
+| 5. Linear Algebra | Introduction to linear algebra concepts in C++, including matrix operations and Eigen. | [View](5_Linear_Algebra) |
+| 6. The Boost Libraries | Exploration of the Boost libraries, covering mathematical constants, statistical distributions, and multi-array. | [View](6_The_Boost_Libraries) |
+
 
 - **Exercises:** Practical exercises with solutions for readers to apply what they've learned.
 - **Projects:** Larger, more complex projects that integrate multiple concepts from the book.
