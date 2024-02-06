@@ -5,6 +5,8 @@
 ## Overview
 This repository is dedicated to the practical application and exploration of concepts presented in "Learning Modern C++ for Finance" by Reilly. It aims to provide a comprehensive collection of examples, exercises, and projects developed through the insights gained from the book. This repository serves as a resource for finance professionals, students, and enthusiasts looking to deepen their understanding of modern C++ in the context of financial engineering and computational finance.
 
+[📚READ ONLINE](https://learning.oreilly.com/library/view/learning-modern-c/9781098100797/ch01.html)
+
 ## Objectives
 - **Educational Enhancement:** Enhance the learning experience for readers of "Learning Modern C++ for Finance" by providing real-world code examples and projects.
 - **Community Collaboration:** Foster a community of learners and professionals who can share insights, ask questions, and improve upon the provided examples.
